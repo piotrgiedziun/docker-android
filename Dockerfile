@@ -30,7 +30,3 @@ RUN echo y | android update sdk --no-ui --all --filter extra-android-m2repositor
 RUN echo $JAVA_HOME
 
 RUN echo $ANDROID_HOME
-
-ADD . /app
-
-WORKDIR /app
