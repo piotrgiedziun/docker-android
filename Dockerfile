@@ -1,6 +1,6 @@
 FROM ubuntu:12.04
 
-MAINTAINER ksoichiro "piotrgiedziun@gmail.com"
+MAINTAINER piotrgiedziun "piotrgiedziun@gmail.com"
 
 RUN apt-get update -qq
 
